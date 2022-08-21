@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css"></link>
+        <title >MY WEBSITE</title>
+    </head>
+    <body>
+        <h1 class="title">My Website</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<h2 class= "subtitle">About Me</h2>
+
+<img src="D:\coading\c c++ programs\web dev\images\wave fun.png" width=500 height=500>
+
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. 
+
+Cillum dolore eu fugiat nulla , pariatur:
+
+</p>
+	<ul>
+		<li>Excepteur sint occaecat</li>
+		<li>cupidatat non proident</li>
+		<li>sunt in culpa.</li>
+	</ul>
+
+
+<a href="http://www.google.com">Click Here To Go To Google</a>
+
+<h2>Services</h2>
+
+<table border="1">
+		<tr>
+			<td>Lorem</td>
+			<td>Ipsum</td>
+			<td>Dolor</td>
+		</tr>
+		<tr>
+			<td>Sit</td>
+			<td>Amet</td>
+			<td>Consectetur</td>
+		</tr>
+		<tr>
+			<td>Adipisicing</td>
+			<td>Elit</td>
+			<td>Sed</td>
+		</tr>
+</table>
+
+
+<h2 id="contact">Contact Us</h2>
+
+<form>
+	<input type="text" placeholder="Full Name">
+	<input type="email" placeholder="Email">
+	<textarea placeholder="mobile no."></textarea>
+	<button>Submit</button>	
+
+</form>
+
+<h1 id="name">preet darshan patil</h1>
+    </body>
+</html>
